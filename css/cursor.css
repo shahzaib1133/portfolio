@@ -1,0 +1,29 @@
+#starfield {
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -2;
+    background: transparent;
+}
+
+.cursor {
+    position: fixed;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1000;
+    background: radial-gradient(circle at 30% 30%, #fff, #a7b0ff 60%, transparent 62%);
+    box-shadow: 0 0 25px 6px rgba(140, 120, 255, 0.35);
+    transform: translate(-50%, -50%);
+    mix-blend-mode: screen;
+}
+
+.cursor-trail {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 999;
+}
+

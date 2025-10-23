@@ -1,0 +1,223 @@
+Muhammad Shahzaib
+
+Mid Senior Full-Stack Engineer | Python | React
+E +92-304-4239378
+
+ muhammad.shahzaib.pu@gmail.com
+
+ Lahore Punjab, Pakistan
+
+SUMMARY
+I’m a seasoned full-stack web developer with over 4 years of strong backend expertise, specializing in building scalable APIs using Python,
+Node.js, and MySQL. I have hands-on experience with cloud platforms like AWS and GCP, along with deep proficiency in Docker,
+microservices, and distributed systems. I'm passionate about solving complex problems, writing clean and efficient code, and
+mentoring junior developers—making me a reliable contributor in fast-paced, product-driven environments.
+
+SKILLS
+Python
+
+React
+
+Websockets
+
+Node.js
+
+Redis
+
+SQLITE
+
+RDBMS
+
+Paypal
+
+Fastspring
+
+Django
+
+Redux
+AWS
+
+EC2
+
+Jotai
+
+DjangoRestFramework
+Tan stack routers
+
+Heroku
+
+Multiprocessing
+
+Azure
+
+Pandas
+
+FastApi
+
+Digital Ocean
+
+Multithreading
+
+Numpy
+
+Flask
+Git
+
+Celery
+
+PostgreSql
+Github
+
+MySQL
+
+IRS
+
+Asynchronous programming
+
+Stripe
+Jira
+
+Asana
+
+EXPERIENCE
+Software Engineer
+Cinnova Technologies
+04/2023 - Present
+Pakistan
+US based company having 1 branch in Pakistan focused on new innovations and solving clients problems
+• At Tab Services, I built a scalable e-filing platform for IRS forms like 1099NEC, 1099INT, 1099MISC and etc, handling over 1 million
+records per client. The challenge was optimizing large data validation, PDF generation, and XML file creation under strict IRS
+compliance. I used Django with multiprocessing, signals, and async task queues (Celery) for backend efficiency, and React.js with
+Jotai and TanStack Router for a role-based, high-performance frontend. This reduced processing time by 80%, improved system
+reliability, and enabled seamless A2A submissions, driving a 60% boost in client onboarding.
+• Parking Management system managed heavy data on properties, residents, and parking spaces, making the frontend complex and
+slow. I optimized the React.js app with lazy loading, code splitting, and virtualization, reducing load times and ensuring smooth
+performance.
+• Engineered Azure-based modules for data analysis, printing operations, and role-based permissions, ensuring seamless operation
+and user management
+
+Full-stack Web Developer
+Cyber Hawk
+07/2022 - 04/2023
+A technology company specializing in full-stack web development
+• At Cyber Hawk System the challenge was handling inconsistent and high-frequency sensor data streams without UI lag or data loss.
+I implemented efficient data batching and debounce logic in the backend, along with WebSocket integration on the frontend for
+real-time updates. This reduced API load by 85% and improved dashboard responsiveness, providing a smooth live monitoring
+experience.
+• Implemented granular system for secure user access and permissions
+
+Active/Passive Sensors: Devices (Active: Radar, Passive: Thermistor) publish measurements via MQTT to AWS IoT Core.
+AWS Lambda: The IoT Rule triggers a Lambda function written in Python. This function acts as the secure intermediary, receiving the sensor data.
+Developed the Django application to manage data models, ensuring efficient, low-latency persistence of sensor readings using Django WebSockets.
+
+www.enhancv.com
+
+Powered by
+
+
+
+EXPERIENCE
+Full-stack Web Developer
+Auretics
+Engineered
+a responsive frontend dashboard using React.js to consume API data from Django and render critical insights, utilizing charting libraries
+09/2021 - 03/2022
+• Enhanced user verification processes by integrating KYC functionality using Signzy APIs within the Django framework
+• Streamlined order management operations by developing functionalities for creating, updating, retrieving, and deleting orders using
+Shiprocket APIs
+• Improved page load times and overall system performance by implementing Redis caching mechanisms
+• Developed and implemented a comprehensive roles and permissions system for data security
+
+Full-stack Web Developer
+PuntaCanaVilla
+01/2022 - 07/2022
+• Managed PostgreSQL database operations with Python, including table interactions and daily maintenance
+• Created Django forms for database models, enabling efficient data input and management
+• Implemented APIs to fetch data from Podio and WordPress for dynamic content integration
+• Developed a scheduling and appointment system for property management
+
+Full-stack Web Developer
+Switch2VoIP
+01/2021 - 01/2022
+A telecommunications technology company
+• Helped in designing, coding, and modifying websites, from layout to function using CSS
+• Documented and maintained current software systems
+• Designed, created, and updated PostgreSQL databases
+• Integrated payment gateways such as Stripe, Paypal, FastSpring, and Binance
+
+EDUCATION
+Bachelor of Science in Information Technology (BSIT)
+PUCIT
+09/2017 - 07/2021
+
+Lahore, Pakistan
+
+KEY ACHIEVEMENTS
+
+k Innovative A2A E-filing and Management Solutions
+Led the development of a robust IRS e-filing platform that
+processed and validated over 1M records per client,
+reducing data processing time by 60%. Also architected a
+scalable parking and towing management system with
+real-time data handling and optimized React.js frontend,
+improving load performance by 50% and enhancing user
+experience across complex data views.
+
+STRENGTHS
+
+ Collaboration and Git Proficiency
+Strong in Git and collaborative workflows
+
+LANGUAGES
+English
+
+Urdu
+
+Proficient
+
+Native
+
+www.enhancv.com
+
+Powered by
+
+
+
+PROJECTS
+TAB Services
+2023 - 2025
+
+• Tech Stack: Python, Django, Django REST Framework, PostgreSQL, React.js, Jotai, TanStack Router, WebSockets, JWT, Celery, Redis
+Backend (Django & DRF)
+Developed robust E-Filing modules for IRS forms (1099NEC, 1099INT, etc.) and A2A integration.
+Handled and validated 1M+ records with high performance using select_related, prefetch_related, and raw queries.
+Used Django Signals for decoupled activity tracking and logging.
+Leveraged multiprocessing and multithreading to optimize large file processing and XML generation.
+Integrated Celery + Redis for asynchronous tasks like PDF generation and file validation.
+Designed role-based access system with hierarchical permissions (Super Admin → Client User).
+Implemented multi-tenant support using custom middleware and schema-aware data isolation.
+Built secure APIs with JWT, token rotation, and permission classes.
+Enabled file exports, PDF generation, and manual IRS-compatible TXT/XML creation.
+Frontend (React.js)
+Built a role-aware dashboard UI with Jotai for global state (auth, permissions, notifications).
+Implemented secure JWT auth with auto-refresh and token interceptor via Axios.
+Used TanStack Router for nested routing with dynamic route guards based on user roles.
+Optimized performance using React.memo, lazy loading, and table virtualization.
+Built interfaces to handle bulk uploads and row-level validation (50K–1M+ rows).
+Integrated WebSockets for real-time status updates and notifications.
+Designed modular Axios service layer for clean API handling and error boundaries
+
+Various Projects
+01/2019 - 04/2020
+
+• Developed an IRS e-filing system with comprehensive document management capabilities
+• Designed a vehicle parking management solution for efficient space allocation
+• Engineered an e-commerce platform with wallet and multi-payment gateway integration
+
+www.enhancv.com
+
+Powered by
+
+
+
+

@@ -1,0 +1,14 @@
+.contact { padding: 4rem 0; }
+.contact-content { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+.contact-info { padding: 1rem; border: 1px solid var(--border); border-radius: 16px; background: rgba(255,255,255,0.03); }
+.contact-details { display: grid; gap: .6rem; margin: 1rem 0; }
+.contact-item { display: flex; align-items: center; gap: .6rem; color: var(--muted); }
+.social-links-large { display: flex; gap: .6rem; }
+.social-link-large { width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--border); border-radius: 10px; color: var(--muted); background: rgba(255,255,255,0.03); }
+.social-link-large:hover { color: var(--text); }
+.contact-form { padding: 1rem; border: 1px solid var(--border); border-radius: 16px; background: rgba(255,255,255,0.03); }
+.form-group { margin-bottom: .8rem; }
+.form-group input, .form-group textarea { width: 100%; padding: .8rem; border-radius: 10px; border: 1px solid var(--border); background: rgba(255,255,255,0.02); color: var(--text); }
+
+@media (max-width: 900px) { .contact-content { grid-template-columns: 1fr; } }
+
